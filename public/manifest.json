@@ -1,0 +1,12 @@
+{
+  "name": "Scrying",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "See and control player viewports as the GM.",
+  "icon": "https://domain.example.com/icon.svg",
+  "action": {
+    "title": "Scrying",
+    "icon": "https://domain.example.com/icon.svg",
+    "popover": "https://domain.example.com/"
+  }
+}
