@@ -4,6 +4,9 @@ description: Lets the GM see and control player viewports in real time.
 author: updogonline
 image: https://updogonline.github.io/Scrying/hero.png
 icon: https://updogonline.github.io/Scrying/icon.svg
+tags:
+  - tool
+manifest: https://updogonline.github.io/Scrying/manifest.json
 learn-more: https://updogonline.github.io/Scrying
 ---
 
